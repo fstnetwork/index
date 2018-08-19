@@ -1,4 +1,4 @@
-# FundersToken repositories
+# FundersToken open source repositories
 
 ## Index
 
